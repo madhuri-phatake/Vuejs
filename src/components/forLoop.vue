@@ -1,6 +1,6 @@
 <template>
 <div>
-    <h1>for loop</h1>
+    <h1>for hello loop</h1>
 
     <ul>
         <li v-for="item in technology" :key="item">
